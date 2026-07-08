@@ -90,3 +90,13 @@ Comparable products include:
 - Riskified: ecommerce fraud decisioning
 
 RiskMesh is not intended to copy these products feature-for-feature. The goal is to build a production-grade fraud detection architecture inspired by the same category of systems, with emphasis on real-time decisions, explainability, entity risk, analyst workflow, and feedback loops.
+
+
+
+docs/02-system-design.md
+docs/03-api-contracts.md
+docs/04-data-model.md
+docs/05-event-flows.md
+docs/06-ai-design.md
+docs/07-deployment.md
+docs/08-build-plan.md
